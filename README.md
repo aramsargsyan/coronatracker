@@ -6,4 +6,4 @@ Information is gathered from worlds trusted sources and simplified, for you.
 
 ### Support / Contact
 
-Having trouble with Coronavirus Live Tracker? [Contact support](mailto:someone@yoursite.com?subject=Coronavirus Live Tracker Support) and we’ll help you sort it out.
+Having trouble with Coronavirus Live Tracker? [Contact support](mailto:aram.sargsyan.1997@gmail.com?subject=Coronavirus Live Tracker Support) and we’ll help you sort it out.
