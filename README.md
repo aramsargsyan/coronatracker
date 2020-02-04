@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Coronavirus Live Tracker
 
-You can use the [editor on GitHub](https://github.com/aramsargsyan/coronatracker/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Check all the latest data about confirmed, death and recovery cases from the  world epidemic coronavirus.
+Be aware of the latest updates in your and neighboring countries, track the growth dynamics.
+Information is gathered from worlds trusted sources and simplified, for you.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Support / Contact
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aramsargsyan/coronatracker/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Coronavirus Live Tracker? [Contact support](mailto:someone@yoursite.com?subject=Coronavirus Live Tracker Support) and we’ll help you sort it out.
